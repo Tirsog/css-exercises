@@ -1,0 +1,21 @@
+/* Odd Numbered */
+.red{
+    background-color: #FFA7A7;
+    font-family: Verdana, sans-serif;
+}
+
+/* Ids */
+
+.third{
+    font-size: 24px;
+}
+
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+#number4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
